@@ -1,3 +1,3 @@
-# Assignment-Null-Getting-Started
+# Hello, world!
 
-Change this file to consist of the text "Hello, world" only
+
